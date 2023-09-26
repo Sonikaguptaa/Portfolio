@@ -1,5 +1,4 @@
 import React from 'react'
-// import avatar from "../assets/avatar.png"
 import { MdKeyboardDoubleArrowRight } from "react-icons/md"
 import { Link } from "react-scroll"
 import Typed from 'typed.js'

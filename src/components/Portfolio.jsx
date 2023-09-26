@@ -2,8 +2,7 @@ import React from 'react'
 import Mod1 from '../assets/Mod1.jpg'
 import Mod2 from '../assets/Mod2.jpg'
 import Mod3 from '../assets/Mod3.jpg'
-import CTFB from '../assets/CTFB.png'
-import SCcert from '../assets/SCcert.png'
+
 
 const Portfolio = () => {
 
@@ -16,7 +15,7 @@ const Portfolio = () => {
             <div className='max-w-screen-lg mx-auto flex flex-col justify-center w-full h-screen text-white'>
 
 
-                <div className="pb-1 mt-56">
+                <div className="pb-1 mt-30">
                     <p className="text-3xl inline border-b-4 border-gray-500 font-bold mt-auto">
                         Projects
                     </p>
