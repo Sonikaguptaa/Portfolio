@@ -1,3 +1,3 @@
-Hi This is my Portfolio
+Hi, This is my Portfolio
 
-Link to portlolio : https://wonderful-babka-b6f26a.netlify.app
+Portfolio Link: https://wonderful-babka-b6f26a.netlify.app/
