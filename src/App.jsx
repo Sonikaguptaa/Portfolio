@@ -19,10 +19,7 @@ export default function App() {
       <Experience />
       <Portfolio />
       <Certification />
-
-
       <Contact />
-
       <SocialLinks />
     </div>
   )

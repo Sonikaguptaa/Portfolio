@@ -19,8 +19,8 @@ const Portfolio = () => {
                     <p className="text-3xl inline border-b-4 border-gray-500 font-bold mt-auto">
                         Projects
                     </p>
-                    <p className="py-2">Check out some of my work right here</p>
-                    <p className='mb-2 sm:mb-10 text-xl'>Titles for Repo (Code), Images for Live</p>
+                    {/* <p className="py-2">Check out some of my work right here</p> */}
+                    <p className='mb-2 py-2 sm:mb-10 '>Titles for Repo (Code) Images for Demo</p>
 
                 </div>
 
