@@ -3,12 +3,12 @@ import React from 'react'
 const About = () => {
   return (
     <div name='about' className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
-      <div className='max-w-screen-md p-4 mx-auto flex flex-col justify-center w-full'>
-        <div className='pb-4'>
+      <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
+        <div className='pb-8'>
           <p className='text-3xl font-bold inline border-b-4 border-gray-500'>
             About
           </p>
-          <p className='text-l mt-10'>
+          <p className='text-sm mt-10'>
             Having 2+ years of experience,
             seeking a challenging SDET position in a dynamic and prestigious organization.
             Proficient in testing methodologies and tools, I am dedicated to leveraging my technical expertise and problem-solving abilities to contribute to the success and growth of the company.
