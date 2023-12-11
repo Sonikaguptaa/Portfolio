@@ -30,6 +30,7 @@ const Home = () => {
           <div className="text-blue-900 max-w-sm font-bold m-1 ">
             <span ref={el} />
           </div>
+
           <p className='text-gray-400  max-w-lg '>
             I am a highly motivated and certified software testing professional with a CTFL certification from ASTQB.
             My passion for software engineering and testing drives me to continually expand my knowledge and skills. Recently,
