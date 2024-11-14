@@ -15,7 +15,7 @@ const Portfolio = () => {
             <div className='max-w-screen-lg mx-auto flex flex-col justify-center w-full h-screen text-white'>
 
 
-                <div className="pb-1 mt-30">
+                <div className="pb-1 mt-20">
                     <p className="text-3xl inline border-b-4 border-gray-500 font-bold mt-auto">
                         Projects
                     </p>

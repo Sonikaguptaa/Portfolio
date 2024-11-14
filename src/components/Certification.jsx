@@ -11,10 +11,10 @@ const Certification = () => {
             <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
 
                 <div>
-                    <p className='text-3xl font-bold inline border-b-4 border-gray-500 mt-auto'>Certification</p>
+                    <p className='text-3xl font-bold inline border-b-4 border-gray-500 '>Certification</p>
                 </div>
 
-                <div className='flex flex-row gap-8 justify-center text-center py-8 px-12 sm:px-0'>
+                <div className='flex flex-row gap-8 justify-center text-center py-5 px-10 sm:px-0'>
 
                     <div className='hover:scale-105 duration-500 p-2 rounded-1xl mx-4 shadow-lg shadow-white'>
                         <img src={OCI23MCCA} alt='OracleMultiCloud' className='w-70 h-60 ' /> {/* Set a fixed width and height */}
